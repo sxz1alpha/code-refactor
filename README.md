@@ -44,5 +44,8 @@ You are required to submit the following for review:
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 ## Site Details
-
+_link to deployed website_
 https://sxz1alpha.github.io/code-refactor/
+
+![image](https://user-images.githubusercontent.com/80006081/117021186-5bd97200-acb4-11eb-99e1-ee1608fc656e.png)
+
